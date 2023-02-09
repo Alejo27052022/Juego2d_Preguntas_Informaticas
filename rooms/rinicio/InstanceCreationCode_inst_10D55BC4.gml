@@ -1,0 +1,1 @@
+text = "Bienvenido! \nEste es un test que pone a prueba tus \nconocimientos; solo tienes un intento, \nsi fallas debes volver a empezar. \nBuena suerte!";

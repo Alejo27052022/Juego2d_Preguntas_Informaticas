@@ -1,0 +1,1 @@
+text = "FELICIDADES! \nHas completado el test de TI \nAvanza a la puerta para salir al Menu Principal";
